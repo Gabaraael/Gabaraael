@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>  
   <img align="center" alt="Java" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring Boot" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Spring Boot" height="80" width="70" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Postgres" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="AngularJs" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">  
   <img align="center" alt="CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
