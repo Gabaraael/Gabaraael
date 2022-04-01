@@ -4,13 +4,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabaraael&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabaraael&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div align="left"><br>  
+<div align="right"><br>  
   <img align="center" alt="Java" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Spring Boot" height="80" width="70" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Postgres" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="AngularJs" height="100" width="90" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg">  
   <img align="center" alt="Vue" height="60" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">  
-  <img align="center" alt="Csharp" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
